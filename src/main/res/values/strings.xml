@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">New Web View</string>
+    <string name="uri_default">www.google.com</string>
+    <string name="send_button">Send</string>
+</resources>
